@@ -2,9 +2,9 @@
 
 /* Magic Mirror
  * Module: ThingSpeak
- *
- * By Michael Teeuw http://michaelteeuw.nl
- * MIT Licensed.
+ * 
+ * By Teemu M
+ * Based on the currentweather module by Michael Teeuw http://michaelteeuw.nl
  */
 
 Module.register("thingspeak",{
